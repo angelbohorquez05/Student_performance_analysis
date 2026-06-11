@@ -21,7 +21,6 @@ An exploratory statistical analysis of a public dataset of 1,000 U.S. high schoo
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 - [Notes on Scope](#notes-on-scope)
-- [Author](#author)
 
 ---
 
@@ -179,17 +178,6 @@ source("student_performance_analysis.R")
 - The findings describe **associations within this specific sample** of 1,000 students. They do not establish causation and are not predictions for any individual.
 - The dataset records a **limited set of variables**. Many factors that plausibly relate to academic outcomes — study habits, school quality, individual circumstances, access to learning resources — are not represented here.
 - Statistical significance and practical relevance are reported separately (via effect sizes), since large samples can produce significant p-values for differences that are small in real terms.
-
----
-
-## Author
-
-**Angel Bohorquez**  
-Industrial Engineer · AI/ML  
-ITS Program in Artificial Intelligence & Machine Learning — Milan, Italy
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
