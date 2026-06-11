@@ -1,4 +1,4 @@
-# Student Academic Performance — Exploratory Statistical Analysis
+#Exploratory Statistical Analysis
 
 ![R](https://img.shields.io/badge/R-4.x-276DC3?style=flat&logo=r&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
